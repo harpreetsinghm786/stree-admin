@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742464361791",
+    "project_id": "stree-78fe8",
+    "storage_bucket": "stree-78fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742464361791:android:02d5244a97d4dceee6af8a",
+        "android_client_info": {
+          "package_name": "com.example.streeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742464361791-uo17jp8aglbdl238300d02m31fjc40s8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streeadmin",
+            "certificate_hash": "61f7fdf21be10a3c0d6ac092b6850040ee0b1442"
+          }
+        },
+        {
+          "client_id": "742464361791-17s1ltepsprtr3ie7qe96dn1br403rhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB39TMSrRTEcC773cgRAciFpFpYj6lqh7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742464361791-17s1ltepsprtr3ie7qe96dn1br403rhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
